@@ -1,2 +1,2 @@
 # Presentations
-Repository for my presentations (for convinence)
+Repository for my presentations (for convenience)
